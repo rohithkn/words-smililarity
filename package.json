@@ -1,0 +1,35 @@
+{
+  "name": "words-similarity",
+  "version": "1.0.0",
+  "description": "To find similarity between two words/string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohithkn/words-smililarity.git"
+  },
+  "keywords": [
+    "similarity",
+    "words",
+    "string",
+    "string-smiliarity",
+    "word-similarity",
+    "words-similarity",
+    "strings-similarity",
+    "levenshtein",
+    "damerau",
+    "damerau-levenshtein",
+    "compare",
+    "compare-strings",
+    "compare-string",
+    "compare-words"
+  ],
+  "author": "Rohith K N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohithkn/words-smililarity/issues"
+  },
+  "homepage": "https://github.com/rohithkn/words-smililarity#readme"
+}
