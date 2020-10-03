@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/rohithkn/words-smililarity/issues"
   },
-  "homepage": "https://github.com/rohithkn/words-smililarity#readme"
+  "homepage": "https://github.com/rohithkn/words-smililarity#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.1"
+  }
 }
